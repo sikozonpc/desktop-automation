@@ -1,0 +1,15 @@
+{
+  "destination": {
+    "audio": ["aif", "cda", "mid", "midi", "mp3", "mp4", "mpa", "ogg", "wav", "wma", "wpl"],
+    "compressed": [".7z", "rar", "rpm", "pkg", "rar", "tar.gz", "zip"],
+    "data": ["csv", "db", "xml", "json", "sav", "sql", "tar", "mdb", "dat"],
+    "execs": ["exe", "apk", "bat", "js", "py", "jar", "wsf", "bin", "com", "cgi"],
+    "fonts": ["ttf", "fnt", "fon", "otf"],
+    "pictures": ["ai", "bmp", "gif", "ico", "jpeg", "png", "jpg", "svg", "psd"],
+    "presentations": ["key", "odp", "pps", "ppt", "pptx"],
+    "programming": ["js", "hmtl", "css", "py", "swift", "c", "class", "java", "cpp", "cs", "h", "sh", "vb"],
+    "documents": ["xlsx", "xls", "xlr", "ods", "txt", "text", "doc", "docx", "pdf", "wpd", "wks", "tex", "rtf", "odt"],
+    "videos": ["3g2", "3gp", "avi", "flv", "h264", "m4v", "mkv", "mov", "mp4", "mpg", "mpeg", "rm", "swf", "vob", "wmv"],
+    "apps": ["lnk", "url"]
+  }
+}

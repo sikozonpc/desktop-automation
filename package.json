@@ -1,0 +1,19 @@
+{
+  "name": "desktop-automation",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon lib/bin/index.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "nodemon": "1.19.2"
+  },
+  "dependencies": {
+    "chokidar": "3.0.2",
+    "move-file": "1.2.0"
+  }
+}
