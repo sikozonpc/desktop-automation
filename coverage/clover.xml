@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<coverage generated="1568927032568" clover="3.2.0">
+  <project timestamp="1568927032569" name="All files">
+    <metrics statements="23" coveredstatements="5" conditionals="6" coveredconditionals="0" methods="6" coveredmethods="1" elements="35" coveredelements="6" complexity="0" loc="23" ncloc="23" packages="1" files="1" classes="1"/>
+    <file name="filesys.js" path="C:\Users\Tiago Taquelim\dev\projects\desktop-automation\lib\bin\filesys.js">
+      <metrics statements="23" coveredstatements="5" conditionals="6" coveredconditionals="0" methods="6" coveredmethods="1"/>
+      <line num="1" count="1" type="stmt"/>
+      <line num="2" count="1" type="stmt"/>
+      <line num="3" count="1" type="stmt"/>
+      <line num="11" count="0" type="stmt"/>
+      <line num="12" count="0" type="stmt"/>
+      <line num="13" count="0" type="stmt"/>
+      <line num="14" count="0" type="stmt"/>
+      <line num="23" count="0" type="stmt"/>
+      <line num="24" count="0" type="stmt"/>
+      <line num="30" count="0" type="cond" truecount="0" falsecount="2"/>
+      <line num="38" count="0" type="stmt"/>
+      <line num="40" count="0" type="stmt"/>
+      <line num="42" count="0" type="stmt"/>
+      <line num="43" count="0" type="cond" truecount="0" falsecount="2"/>
+      <line num="44" count="0" type="stmt"/>
+      <line num="46" count="0" type="stmt"/>
+      <line num="47" count="0" type="stmt"/>
+      <line num="49" count="0" type="cond" truecount="0" falsecount="2"/>
+      <line num="50" count="0" type="stmt"/>
+      <line num="62" count="1" type="stmt"/>
+      <line num="63" count="0" type="stmt"/>
+      <line num="64" count="0" type="stmt"/>
+      <line num="68" count="1" type="stmt"/>
+    </file>
+  </project>
+</coverage>

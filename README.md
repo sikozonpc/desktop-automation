@@ -1,1 +1,1 @@
-### Wip
+### Background desktop automation script
